@@ -6,6 +6,7 @@ authors = [
     { name = "Kaito Shigyo / 執行凱斗", email = "shugyo596@outlook.com" }
 ]
 dependencies = [
+    "jupyter>=1.0.0",
     "numpy>=1.26.4",
 ]
 readme = "README.md"
